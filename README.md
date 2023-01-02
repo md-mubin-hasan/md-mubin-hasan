@@ -1,6 +1,7 @@
 <!--
 
 <h1 align="center">Hi 👋, I'm Mubin</h1>
+
 <h3 align="center">A passionate competitive programmer and freshman at HKUST</h3>
 
 - 🔭 I’m currently working on [Data Science Project](project.com)
