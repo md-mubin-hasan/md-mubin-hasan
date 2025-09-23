@@ -1,7 +1,7 @@
 # 你好! I'm Mubin!
 
 <div align="center">
-  <img src="https://your-hk-tech-gif-here.gif" alt="HK Tech Vibes" width="500"/>
+  <img src="tenor.gif" alt="HK Tech Vibes" width="500"/>
 </div>
 
 ## 🏙️ AI Wizard & Code Samurai | Co-founder at Rovierr 🚀
