@@ -163,7 +163,7 @@ Always down to chat about anime, tech, or how to make the world a bit more kawai
 
 - 💬 Ask me about **Math, LaTex and CP**
 
-- 📫 How to reach me **mubin.md.hasan@gmail.com**
+- 📫 How to reach me **example@gmail.com**
 
 - 📄 Know about my experiences [nowhere.com](nowhere.com)
 
