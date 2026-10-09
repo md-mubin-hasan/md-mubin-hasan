@@ -4,8 +4,8 @@
   <img src="coldnight.gif" alt="HK Tech Vibes" width="500"/>
 </div>
 
-## 🏙️ AI Wizard & Code Samurai | Co-founder at [Rovierr](https://www.rovierr.com/) 🚀
-
+## 🏙️ AI Wizard & Code Samurai 🚀
+<!-- | Co-founder at [Rovierr](https://www.rovierr.com/) -->>
 From the neon-lit streets of Hong Kong to the digital frontier! Building the future one algorithm at a time, powered by dim sum and milk tea 🥟🧋
 
 ### ✨ What I Build 
