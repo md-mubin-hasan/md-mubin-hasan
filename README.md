@@ -5,7 +5,7 @@
 </div>
 
 ## 🏙️ AI Wizard & Code Samurai 🚀
-<!-- | Co-founder at [Rovierr](https://www.rovierr.com/) -->>
+<!-- | Co-founder at [Rovierr](https://www.rovierr.com/) -->
 From the neon-lit streets of Hong Kong to the digital frontier! Building the future one algorithm at a time, powered by dim sum and milk tea 🥟🧋
 
 ### ✨ What I Build 
